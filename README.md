@@ -1,4 +1,4 @@
-## Hola mundo! Soy Renso, Full Stack Developer. 👋👨‍💻
+# ¡Hola mundo! Soy Renso, Full Stack Developer. 👋👨‍💻
 
 <p>
     <img src='https://repository-images.githubusercontent.com/248812720/56902700-c5bd-11ea-813f-ed8631377258'> </img>
@@ -6,7 +6,7 @@
 
 <p>
 
-  Soy un estudiante de economia que un dia quiso programar y se capacitó para poder seguir creciendo personalmente, con muchas ganas de seguir aprendiendo acerca de tecnologias y desarrollo. Me converti en Full Stack Developer a traves de Soy Henry que me capacitó en estas tecnologias:
+  Soy un estudiante de economía que un dia quiso programar y se capacitó para poder seguir creciendo personalmente, con muchas ganas de seguir aprendiendo acerca de tecnologias y desarrollo. Me converti en Full Stack Developer a través de Soy Henry que me capacitó en estas tecnologias:
 
 <ul>
 
@@ -39,12 +39,12 @@
 
 </ul>
 
-Pero esto es solo el comienzo...
+Pero esto es solo el comienzo... 🤓
 
 
 </p>
 
-### Contactemonos!
+## ¡Contactémonos!
 
 <p>
 

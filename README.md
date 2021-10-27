@@ -6,7 +6,7 @@
 
 <p>
 
-  Soy un estudiante de economía que un dia quiso programar y se capacitó para poder seguir creciendo personalmente, con muchas ganas de seguir aprendiendo acerca de tecnologias y desarrollo. Me converti en Full Stack Developer a través de Soy Henry que me capacitó en estas tecnologias:
+  Soy un estudiante de economía que un día quiso programar y se capacitó para poder seguir creciendo personalmente, con muchas ganas de seguir aprendiendo acerca de tecnologías y desarrollo. Me converti en Full Stack Developer a través de Soy Henry que me capacitó en estas tecnologías:
 
 <ul>
 

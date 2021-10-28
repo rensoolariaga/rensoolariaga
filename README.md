@@ -1,6 +1,6 @@
 <h1> ¡Hola mundo! Soy Renso, Full Stack Developer. 👋👨‍💻 </h1>
 
-<img src='https://repository-images.githubusercontent.com/248812720/56902700-c5bd-11ea-813f-ed8631377258'> </img>
+<img src='https://media-exp1.licdn.com/dms/image/C4D16AQHygUcp7tqrdA/profile-displaybackgroundimage-shrink_350_1400/0/1634938202279?e=1640822400&v=beta&t=mi5Kra-BSFn0q2e91u5frHhixReQVsvZQ3WD3tOLCbs'> </img>
 
 <p>
 
@@ -47,5 +47,3 @@ Pero esto es solo el comienzo... 🤓
   <h4> LinkedIn:  https://www.linkedin.com/in/rensoolariaga/ </h4>
 
 </p>
-
-

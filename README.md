@@ -1,6 +1,6 @@
 <h1> ¡Hola mundo! Soy Renso, Full Stack Developer. 👋👨‍💻 </h1>
 
-<img src='https://media-exp1.licdn.com/dms/image/C4D16AQHygUcp7tqrdA/profile-displaybackgroundimage-shrink_350_1400/0/1634938202279?e=1640822400&v=beta&t=mi5Kra-BSFn0q2e91u5frHhixReQVsvZQ3WD3tOLCbs'> </img>
+<img src='image/pern.jpg'></img>
 
 <p>
 
@@ -12,10 +12,10 @@
     <h4> Javascript </h4>
   </li>
   <li>
-    <h4> ReactJs </h4>
+    <h4> ReactJS </h4>
   </li>
   <li>
-    <h4> ReduxJs </h4>
+    <h4> ReduxJS </h4>
   </li>
   <li> 
     <h4> NodeJS </h4>
@@ -24,10 +24,22 @@
     <h4> PostgreSQL </h4>
   </li>
   <li> 
-    <h4> Express </h4>
+    <h4> ExpressJS </h4>
   </li>
   <li> 
     <h4> Sequelize </h4>
+  </li>
+  <li> 
+    <h4> FireBase </h4>
+  </li>
+  <li> 
+    <h4> Cloudinary </h4>
+  </li>
+  <li> 
+    <h4> MongoDB </h4>
+  </li>
+  <li> 
+    <h4> Typescript </h4>
   </li>
 
 </ul>

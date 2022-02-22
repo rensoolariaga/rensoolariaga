@@ -1,6 +1,6 @@
 <h1> ¡Hola mundo! Soy Renso, Full Stack Developer. 👋👨‍💻 </h1>
 
-<img src='image/pern.jpg'></img>
+<img src='image/certificadoHenry.png'></img>
 
 <p>
 
@@ -49,6 +49,15 @@
   </li>
   <li> 
     <h4> Typescript </h4>
+  </li>
+  <li> 
+    <h4> Heroku </h4>
+  </li>
+  <li> 
+    <h4> Vercel </h4>
+  </li>
+  <li> 
+    <h4> Git </h4>
   </li>
 
 </ul>

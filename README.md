@@ -9,6 +9,12 @@
 <ul>
 
   <li>
+    <h4> HTML </h4>
+  </li>
+  <li>
+    <h4> CSS </h4>
+  </li>
+  <li>
     <h4> Javascript </h4>
   </li>
   <li>
@@ -37,6 +43,9 @@
   </li>
   <li> 
     <h4> MongoDB </h4>
+  </li>
+  <li> 
+    <h4> Mongoose </h4>
   </li>
   <li> 
     <h4> Typescript </h4>

@@ -1,11 +1,13 @@
 <h1> ¡Hola mundo! Soy Renso, Full Stack Developer. 👋👨‍💻 </h1>
 
-<img src='image/certificadoHenry.png'></img>
+<img src='image/dev.png'></img>
 
 <p>
 
-  <h3> Soy un estudiante de economía que un día quiso programar y se capacitó para poder seguir creciendo personalmente, con muchas ganas de seguir aprendiendo acerca de tecnologías y desarrollo. Me convertí en Full Stack Developer a través de Soy Henry que me capacitó en estas tecnologías: </h3>
+  <h3> Soy un estudiante de economía que un día quiso programar y se capacitó para poder seguir creciendo personalmente, con muchas ganas de seguir aprendiendo acerca de tecnologías y desarrollo. Me convertí en Full Stack Developer a través de Soy Henry. </h3>
+  <br/>
 
+  <h1>  Tecnologías que utilizo: <h1>
 <ul>
 
   <li>
@@ -64,16 +66,14 @@
 
 Pero esto es solo el comienzo... 🤓
 
-
 </p>
 
 <h2> ¡Contactémonos! </h2>
 
 <p>
 
+  <h4> Mail: <a> renso.o.1996@gmail.com </a> </h4> 
 
-  <a> <h4> 📧 renso.o.1996@gmail.com </h4> </a>
-
-  <h4> LinkedIn:  https://www.linkedin.com/in/rensoolariaga/ </h4>
+  <h4> LinkedIn:  <a> https://www.linkedin.com/in/rensoolariaga/ </a> </h4>
 
 </p>
